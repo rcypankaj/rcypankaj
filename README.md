@@ -39,7 +39,7 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rcypankaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-zeta-gold.vercel.app/api/top-langs/?username=rcypankaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=rcypankaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
   ## 💰 You can help me by Donating
