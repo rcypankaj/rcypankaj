@@ -12,7 +12,7 @@
 # 💫 About Me:
 * 🌍  I'm based in Ghaziabad India
 * ✉️  You can contact me at [rcypankaj@gmail.com](mailto:rcypankaj@gmail.com)
-* 🚀  I'm currently working on [Journey Planner](http://jorney-planner.onrender.com/)
+* 🚀  I'm currently working on Blockchain project.
 * 🧠  I'm learning Auth0, Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
 * 🤝  I'm open to collaborating on open source projects.
 
